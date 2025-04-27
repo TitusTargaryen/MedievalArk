@@ -31,7 +31,7 @@
         "content": [
           {
             "title": "The Broken World",
-            "text": "In a forgotten age, the world shattered into three great islands, each guarded by ancient powers.\n\nAmissa (PvE) is a land of peace and mystery.\nSvartalfheim Premium (PvP) is a realm of war and ice.\nAstraeos (PvP) is the cradle of mythological beasts and divine battles.\n\nThe ancient Tek artifacts can only be unlocked by defeating the Legendary Bosses."
+            "text": "In a forgotten age, the world shattered into great islands, each guarded by ancient powers.\n\nAmissa (PvE) is a land of peace and mystery.\nSvartalfheim Premium (PvP) is a realm of war and ice.\nAstraeos (PvP) is the cradle of mythological beasts and divine battles.\n\nThe ancient Tek artifacts can only be unlocked by defeating the Legendary Bosses."
           }
         ]
       },
@@ -53,7 +53,7 @@
         "content": [
           {
             "title": "Server Specifications",
-            "text": "- Maps: Amissa (PvE), Svartalfheim Premium (PvP), Astraeos (PvP)\n- Minimum wild dino levels:\n  PvE: 150 normal / 180 shiny\n  PvP: 250 normal / 280 shiny\n- All modern engrams disabled\n- Tek gear locked behind boss fights\n- Auto Engrams enabled (medieval tech only)\n- Cyber's Nanny and Item Collector active\n- Electronics replaced with Silica Pearls and Metal Ingots"
+            "text": "- Maps: Amissa (PvE), Svartalfheim Premium (PvP), Astraeos (PvP)\n- Maximum wild dino levels:\n  PvE: 150 normal / 180 shiny\n  PvP: 250 normal / 280 shiny\n- All modern engrams disabled\n- Tek gear locked behind boss fights\n- Auto Engrams enabled (medieval tech only)\n- Cyber's Nanny and Item Collector active"
           }
         ]
       },
