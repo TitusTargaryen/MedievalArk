@@ -42,7 +42,7 @@
         "content": [
           {
             "title": "Server Rules",
-            "text": "- Respect all players and admins.\n- No griefing, harassment, racism, or toxicity.\n- PvE Zone (Amissa): No raiding, no attacking passive dinos.\n- PvP Zones (Svartalfheim, Astraeos): Raiding allowed only when players are online.\n- No foundation spam.\n- Medieval style building only.\n- Offline raid protection is enabled.\n- Report any bugs or exploits immediately."
+            "text": "- Respect all players and admins.\n- No griefing, harassment, racism, or toxicity.\n- PvE Zone (Amissa): No raiding, no attacking passive dinos.\n- PvP Zones (Svartalfheim, Astraeos): Raiding allowed only when players are online.\n- No foundation spam.\n- Medieval style building only.\n- Offline raid protection is enabled.\n- Electronics crafting is still available for some items.\n- Report any bugs or exploits immediately."
           }
         ]
       },
@@ -53,7 +53,7 @@
         "content": [
           {
             "title": "Server Specifications",
-            "text": "- Maps: Amissa (PvE), Svartalfheim Premium (PvP), Astraeos (PvP)\n- Maximum wild dino levels:\n  PvE: 150 normal / 180 shiny\n  PvP: 250 normal / 280 shiny\n- All modern engrams disabled\n- Tek gear locked behind boss fights\n- Auto Engrams enabled (medieval tech only)\n- Cyber's Nanny and Item Collector active"
+            "text": "- Maps: Amissa (PvE), Svartalfheim Premium (PvP), Astraeos (PvP)\n- Maximum wild dino levels:\n  PvE: 150 normal / 180 shiny\n  PvP: 250 normal / 280 shiny\n- All modern engrams disabled\n- Tek gear locked behind boss fights\n- Auto Engrams enabled (medieval tech only)\n- Cyber's Nanny and Item Collector active\n- Electronics crafting remains available for essential items"
           }
         ]
       },
@@ -64,7 +64,7 @@
         "content": [
           {
             "title": "How to Start Your Adventure",
-            "text": "1. Join the Discord and read the full rules.\n2. Choose your map: PvE or PvP.\n3. Build a medieval character (no tech).\n4. Form alliances, survive, conquer.\n5. Defeat bosses to unlock Tek rewards.\n\nYour legend begins now!"
+            "text": "1. Join the Discord and read the full rules.\n2. Choose your map: PvE or PvP.\n3. Build a medieval character (no tech).\n4. Form alliances, survive, conquer.\n5. Defeat bosses to unlock Tek rewards.\n6. On Amissa, press F5 to claim your Starter Kits (Saddled Pteranodon + Metal Tools).\n\nYour legend begins now!"
           }
         ]
       }
